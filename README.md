@@ -5,7 +5,7 @@
 ## 环境依赖
 - Python 3.8+
 - Gradio
-- 
+
 ## 功能概览
 
 ### 教师端（teacher_app.py，本地端口 7860）
